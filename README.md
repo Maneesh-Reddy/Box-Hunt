@@ -26,14 +26,16 @@ This game involves selecting boxes, answering questions, and discovering the con
 
 ```bash
 git clone https://github.com/your-username/box-hunt-game.git
+
+
 Navigate to the project directory:
-bash
 
 cd box-hunt-game
+
 Run the game:
-bash
-Copy code
+
 python box_hunt_game.py
+
 Contributing
 If you'd like to contribute to the project, please follow these guidelines:
 
@@ -50,6 +52,6 @@ Questions and answers provided by the Open Trivia Database API.
 Inspired by classic treasure hunt games.
 Feel free to explore, play the game, and have fun!
 
-rust
 
-Adjust the content and formatting as needed for your specific project.
+Make sure to replace "your-username" with your actual GitHub username and adjust any other details based on your project's specifics.
+
